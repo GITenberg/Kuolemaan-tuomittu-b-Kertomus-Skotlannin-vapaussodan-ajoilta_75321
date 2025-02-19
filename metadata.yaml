@@ -1,0 +1,25 @@
+_repo: Kuolemaan-tuomittu-b-Kertomus-Skotlannin-vapaussodan-ajoilta_75321
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dentz, Fredrik
+    gutenberg_agent_id: '57947'
+    url: http://www.gutenberg.org/2009/agents/57947
+description: ''
+gutenberg_issued: '2025-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75321'
+language: fi
+pgterms:marc905: 20250110235022dentz
+pgterms:marc906: '1905'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHamina :$bAlfred Lagerbom, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kuolemaan tuomittu : $b Kertomus Skotlannin vapaussodan ajoilta'
+url: http://www.gutenberg.org/ebooks/75321
