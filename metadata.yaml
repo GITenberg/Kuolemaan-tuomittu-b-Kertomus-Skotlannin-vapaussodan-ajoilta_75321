@@ -1,11 +1,16 @@
 _repo: Kuolemaan-tuomittu-b-Kertomus-Skotlannin-vapaussodan-ajoilta_75321
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dentz, Fredrik
     gutenberg_agent_id: '57947'
     url: http://www.gutenberg.org/2009/agents/57947
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75321#Kuolemaan-tuomittu-b-Kertomus-Skotlannin-vapaussodan-ajoilta
 gutenberg_issued: '2025-02-08'
 gutenberg_type: Text
 identifiers:
